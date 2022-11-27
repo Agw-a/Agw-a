@@ -24,7 +24,12 @@
 ## ❅GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Agw-a&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Agw-a&theme=radical&hide_border=false)<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Agw-a&theme=radical)](https://git.io/streak-stats)<br/>
+
+<!-- [![Agw-a's github activity graph](https://activity-graph.herokuapp.com/graph?username=Agw-a)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/> -->
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Agw-a&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
