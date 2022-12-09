@@ -6,16 +6,16 @@
 - 🌱 Current: Studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs, Ruby and Python.
 - 😊 I’m open to working on open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests:  Front-End Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing me at elizabeth.o.agwa@gmail.com.
 
 ---
 
-## ❅Skills:
+<!-- ## ❅Skills: -->
 
-###### Languages:
+<!-- ###### Languages:
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <!-- ###### Database:
 
@@ -33,7 +33,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Agw-a&langs_count=20&layout=compact&theme=vision-friendly-dark)
 
 ---
-### ❅My Trophies <!--My Trophies-->
+
 
 
 
@@ -41,6 +41,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Agw-a&bg_color=000000&color=ffff00&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
+
+### ❅My Trophies <!--My Trophies-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Agw-a&theme=tokyonight&no-bg=false&no-frame=false&count_private=true)](https://github.com/Agw-a/Agw-a)
 
