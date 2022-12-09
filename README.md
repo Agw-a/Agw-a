@@ -35,6 +35,13 @@
 ---
 ### ❅My Trophies <!--My Trophies-->
 
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Agw-a&bg_color=000000&color=ffff00&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Agw-a&theme=tokyonight&no-bg=false&no-frame=false&count_private=true)](https://github.com/Agw-a/Agw-a)
 
 
