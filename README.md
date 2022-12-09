@@ -23,16 +23,24 @@
 
 ## ❅GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Agw-a&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?&username=Agw-a&repo=Agw-a&theme=highcontrast&show_icons=true&count_private=true)<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Agw-a&theme=radical)](https://git.io/streak-stats)<br/>
-
-<!-- [![Agw-a's github activity graph](https://activity-graph.herokuapp.com/graph?username=Agw-a)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/> -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Agw-a&theme=highcontrast)](https://git.io/streak-stats)<br/>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Agw-a&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Agw-a&langs_count=20&layout=compact&theme=vision-friendly-dark)
 
 ---
+### ❅My Trophies <!--My Trophies-->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Agw-a&theme=tokyonight&no-bg=false&no-frame=false&count_private=true)](https://github.com/Agw-a/Agw-a)
+
+
+---
+
+
 
 [![](https://visitcount.itsvg.in/api?id=Agw-a&icon=0&color=0)](https://visitcount.itsvg.in)
 
