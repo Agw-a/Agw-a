@@ -4,7 +4,7 @@
 
 - 😊 Pronouns: She/Her
 - 🌱 Current: Studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, Ruby and Python.
+- 🌱 I’m currently learning JavaScript, and Reactj.
 - 😊 I’m open to working on open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests:  Front-End Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing me at elizabeth.o.agwa@gmail.com.
@@ -37,8 +37,8 @@
 
 
 
-
-[![Agw-a's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Agw-a&bg_color=000000&color=ffff00&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- 
+[![Agw-a's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Agw-a&bg_color=000000&color=ffff00&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <br>
 
