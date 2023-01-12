@@ -30,9 +30,9 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Agw-a&langs_count=20&layout=compact&theme=vision-friendly-dark)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Agw-a&langs_count=20&layout=compact&theme=vision-friendly-dark)
 
----
+--- -->
 
 
 
