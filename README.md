@@ -3,16 +3,16 @@
 ## ❅About me:
 
 - 😊 Pronouns: She/Her
+
+
+---
+
+<!-- ## ❅Skills:
 - 🌱 Current: Studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, and Reactjs.
 - 😊 I’m open to working on open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests:  Front-End Engineer.
 - 📫 You can contact me by emailing me at elizabeth.o.agwa@gmail.com.
-
----
-
-<!-- ## ❅Skills:
-
 <!-- <!-- ###### Languages:
 
 <!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
